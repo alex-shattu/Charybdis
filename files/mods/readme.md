@@ -12,6 +12,9 @@
   - [Alternative sensors](#alternative-sensors)
   - [Snapfit PCB Case](#snapfit-pcb-case)
   - [AA Battery Holder](#aa-battery-holder)
+  - [Trackball retainers](#trackball-retainers)
+    - [PMW3360 PCB](#pmw3360-pcb)
+    - [4x6 / PMW3610](#4x6--pmw3610)
 - [Charybdis](#charybdis)
   - [Palm Rest](#palm-rest)
     - [Straight mod](#straight-mod)
@@ -27,7 +30,6 @@
   - [Chair Mount Plate](#chair-mount-plate)
   - [Modular Thumb Cluster](#modular-thumb-cluster)
   - [Sensor cover](#sensor-cover)
-  - [Trackball retainer](#trackball-retainer)
 
 # Charybdis - generic
 
@@ -149,6 +151,29 @@ Details: [AA Battery Holder](./aa_3.7v_battery_holder/).
 ![](./aa_3.7v_battery_holder/images/cmini_top_closed_battery.jpg)
 
 
+## Trackball retainers
+
+Use in place of the regular top adapter to prevent balls from falling.
+
+### PMW3360 PCB
+
+The height of the model is adjusted for [static-beraing-screws](static-bearing-screws).
+
+Rotating the ball may be difficult at first, but you will get used to it by putting it on and taking it off a few times and rotating it.
+The screw holes of this part have an inner diameter (5mm) that allows you to glue M3 (x5x5) threaded inserts.
+
+There are both 3x5 and 4x6 versions.
+
+![](./trackball-retainer/pics/ball-cover.jpg)
+
+### 4x6 / PMW3610
+
+Specific model made for the PMW3610 PCB (for eg. bluetooth builds). Made for Zirconia 0.3mm ceramic balls.
+
+![](../../pics/1au.jpg)
+
+Credit: Vzhao-L on Github.
+
 # Charybdis
 
 ## Palm Rest
@@ -249,15 +274,3 @@ A trackball sensor cover to be used in combination with the original bottom cove
 ![](./sensor-cover/pics/full-sensor-cover.png)
 
 File is in [trackball-cover](trackball-cover).
-
-## Trackball retainer
-
-Use in place of adapter_v2_top_v75.stl to prevent balls from falling.
-Adjusting the height for [static-beraing-screws](static-bearing-screws).
-
-Rotating the ball may be difficult at first, but you will get used to it by putting it on and taking it off a few times and rotating it.
-The screw holes of this part have an inner diameter (5mm) that allows you to glue M3 (x5x5) threaded inserts.
-
-There are both 3x5 and 4x6 versions.
-
-![](./trackball-retainer/pics/ball-cover.jpg)
