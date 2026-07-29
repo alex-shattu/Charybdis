@@ -58,6 +58,7 @@ The files that are compatible with both `MK1` and `MK2` are in the `4x6` folder.
 | Left plate       |                            | Download from the [TBK Mini repository](https://github.com/bastardkb/tbk-Mini), mirror the file for left |
 | Adapter - top    | `3x5 nano/adapter_top.stl` | The 3x6 Mini uses the same top adapter as the 3x5 Nano                                                   |
 | Adapter - bottom | `adapter_bottom.stl`       |                                                                                                          |
+| Adapter - cover  | `sensor_cover.stl`         |                                                                                                          |
 | Tent - right     | `3x6 mini/tent.stl`        | Optional tent*                                                                                           |
 | Tent - left      | `3x6 mini/tent.stl`        | Optional tent, mirror the file for left*                                                                 |
 
@@ -73,6 +74,7 @@ The files that are compatible with both `MK1` and `MK2` are in the `4x6` folder.
 | Left plate       |                                | Download from the [Skeletyl repository](https://github.com/bastardkb/skeletyl), mirror the file for left |
 | Adapter - top    | `3x5 nano/adapter_top.stl`     | There is a different adapter for the 4x6 and 3x5, make sure to grab the one in the 3x5 folder !          |
 | Adapter - bottom | `adapter_bottom.stl`           |                                                                                                          |
+| Adapter - cover  | `sensor_cover.stl`             |                                                                                                          |
 | Tent - right     | `3x5 nano/tent/alien/tent.stl` | Optional tent*                                                                                           |
 | Tent - left      | `3x5 nano/tent/alien/tent.stl` | Optional tent, mirror the file for left*                                                                 |
 
